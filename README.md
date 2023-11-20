@@ -4,7 +4,7 @@ Descrição curta ou sumário do seu projeto.
 
 ## Introdução
 
-Aplicação do modelo padrão TCN em um ambiente multivariado em 4 diferentes parametrizações visando a previsão de uma série temporal estacionária.
+Aplicação do modelo padrão TCN em um ambiente univariado em 4 diferentes parametrizações visando a previsão de uma série temporal estacionária.
 
 ---
 
